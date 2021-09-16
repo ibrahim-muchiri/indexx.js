@@ -1,0 +1,71 @@
+[
+    {
+        "id": 0,
+        "productName": "Nutrient Avocado",
+        "image": "🥑",
+        "nutrients": "Vitamin B, Vitamin K",
+        "price": "10",
+        "from": "Kenya",
+        "quantity": "4🥑",
+        "organic": true,
+        "description": "This type of fruit is used to add vitamin C in our body. Its grown in large scale in our country"         
+    },
+    {
+        "id": 1,
+        "productName": "Maize",
+        "image": "🌽",
+        "nutrients": "Energy",
+        "price": "30",
+        "from": "Uganda",
+        "quantity": "13",
+        "organic": false,
+        "description": "It helps us to gain anergy in our body hence enabling us to perform day to day activities."         
+    },
+    {
+        "id": 2,
+        "productName": "Fish",
+        "image": "🦈",
+        "nutrients": "Proteins",
+        "price": "250",
+        "from": "Kenya",
+        "quantity": "75🦈",
+        "organic": true,
+        "description": "It helps us to add proteins in our body. It come from the lake side  and Ocean e.g Lake Victoria and Indian ocean. "         
+    },
+    {
+        "id": 3,
+        "productName": "Apple",
+        "image": "🍎",
+        "nutrients": "Vitamin ",
+        "price": "40",
+        "from": "Tanzania",
+        "quantity": "350",
+        "organic": true,
+        "description": "It helps to enrich our body with the vitamins hence preventing us from some diseases!. "  
+             
+    },
+    {
+        "id": 4,
+        "productName": "tomatoes",
+        "image": "🍅",
+        "nutrients": "Vitamin",
+        "price": "10",
+        "from": "Kenya",
+        "quantity": "750",
+        "organic": true,
+        "description": "It helps us to add Vitamins in our body."         
+    },
+    {
+        "id": 5,
+        "productName": "mangoes",
+        "image": "🥭",
+        "nutrients": "Vitamins",
+        "price": "25",
+        "from": "Kenya",
+        "quantity": "850",
+        "organic": true,
+        "description": "It helps us to add Vitamins in our body. Its produced in Ukambani in large scale. "         
+    }
+    
+
+]
